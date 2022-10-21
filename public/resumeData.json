@@ -1,0 +1,201 @@
+{
+  "main": {
+    "name": "Ayushi Sharma",
+    "occupation": "current MS Business Analytics student at UIUC",
+    "description": "I believe in the magic of quantitative analysis, and yearn to strengthen the foundation of businesses by simplifying and analyzing data to increase its impact.",
+    "image": "profilepic.jpg",
+    "amine": "AY_anime.png",
+    "bio": "As an Analytics Professional with three years of experience, I am well-versed in a wide range of software and data management tools, including SAP HANA, SAP BODS, and QlikSense, as well as technologies such as Python, Data Warehousing principles, database modelling, ETLs, statistical and predictive analysis. In my experience I have built data-driven solutions to diverse business problems to cross Business Units in the consulting across geographies.  I am extremely passionate to solve problems by developing intuition for data patterns and giving actionable insights from data. I always look forward to spirited conversations, feel free to reach out!",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "aysharma1997@gmail.com",
+    "phone": "+1(447)902-1024",
+    "address": {
+      "street": "1009 S First Street",
+      "city": "Champaign",
+      "state": "Illinois",
+      "zip": "61820"
+    },
+    "website": " ",
+    "resumedownload": "https://drive.google.com/file/d/1NI-avDoLYtgcYBBM38Gm7Yn6OYpEU8_R/view?usp=sharing",
+    "social": [
+      {
+        "name": "facebook",
+        "url": "http://facebook.com/tim.baker.906",
+        "className": "fa fa-facebook"
+      },
+      {
+        "name": "twitter",
+        "url": "http://twitter.com",
+        "className": "fa fa-twitter"
+      },
+      {
+        "name": "linkedin",
+        "url": "https://www.linkedin.com/in/tim-baker-8420009a/",
+        "className": "fa fa-linkedin"
+      },
+      {
+        "name": "instagram",
+        "url": "http://instagram.com/tbaker_x",
+        "className": "fa fa-instagram"
+      },
+      {
+        "name": "github",
+        "url": "http://github.com/tbakerx",
+        "className": "fa fa-github"
+      }
+    ]
+  },
+  "resume": {
+    "skillmessage": "As a Data Analyst with the Analytics and Insights team, I've developed experience in the following tools and technologies to assist businesses in making the best decisions possible.",
+    "education": [
+      {
+        "school": "SRM Institute of Science and Technology, Chennai",
+        "degree": "Bachelor of Technology in Software Engineering",
+        "graduated": "May 2015 - July 2019",
+        "description": [
+          {
+            "id": "point1",
+            "point": "Completed the graduation with a CGPA of 8.66 out of 10."
+          },
+          {
+            "id": "point2",
+            "point": "Pursued courses on Algorithms, Data Structures and Machine Learning , and developed a Logistic Regression model for sentiment analysis in NLP."
+          },
+          {
+            "id": "point3",
+            "point": "Participated in Freshdesk Hackathon, presenting ideas, solutions, and implementation with a future vision, we implemented an idea for \"helping parents with Autistic children\", where my team and I created a Convolutional Neural Network (CNN) model for facial expression recognition, winning the first runner up prize."
+          },
+          {
+            "id": "point4",
+            "point": "Participated in Code Enigma, Where my team and I had created a model for classifying where an accident happened on the highway or not based on the images captured by the cameras."
+          },
+          {
+            "id": "point5",
+            "point": "Selected among 10 students from the university to participate in Amazon Campus Mentorship program (ACMS) - created a styling recommendation system for the Kindle app for the writers using clustering algorithm and creating a model for prediction of bestseller novels by constructing multilayer perceptron (MLP)."
+          }
+        ]
+
+      }
+    ],
+    "work": [
+      {
+        "company": "Tata Consultancy Services (TCS)",
+        "title": "Data Analyst",
+        "years": "May 2019 - July 2022",
+        "description": [
+          {
+            "id": "point1",
+            "point": "Worked as a part of TCS Analytics & Insights team to develop various end-to-end data visualization applications. Worked on 10+ projects and developed digital tools which enhanced the efficiency of cross-functional departments and with strong data insights."
+          },
+          {
+            "id": "point2",
+            "point": "Participated in \"Pulse Survey Analysis\" project for zooming in on attrition issue by conducting exploratory analysis and supplementing it with a correlation, T - Statistic and Topic analysis with Linear Discriminant Analysis (LDA) in Python."
+          },
+          {
+            "id": "point3",
+            "point": "Created dynamic dashboards and provided strong analytical solutions using SAP HANA, Qliksense and Postgres to help various stakeholders in corporate management to understand the trends of various verticals."
+          },
+          {
+            "id": "point4",
+            "point": "Worked closely with HR, Finance and Admin teams in developing Data models to consolidate the features required for Branch Management, Attrition and Cost and Compliance analysis. Driving the business value through Factor analysis to determine the influence of correlated factors on profitability."
+          },
+          {
+            "id": "point6",
+            "point": "Received Beyond Excellence Award for contributions to the Secure Borderless Workspaces (SBWS) Initiative from Vice President and Special Initiative Award from Chief human resources officer (CHRO) for the contributions in COVID-19 Vaccination drives."
+          }
+        ]
+      }
+    ],
+    "skills": [
+      {
+        "name": "Statistics",
+        "level": "80%"
+      },
+      {
+        "name": "Tableau",
+        "level": "60%"
+      },
+      {
+        "name": "Python",
+        "level": "75%"
+      },
+      {
+        "name": "QlikSense",
+        "level": "95%"
+      },
+      {
+        "name": "SAP HANA",
+        "level": "60%"
+      },
+      {
+        "name": "Data Modeling",
+        "level": "80%"
+      },
+      {
+        "name": "SAP BODS",
+        "level": "80%"
+      },
+      {
+        "name": "Machine Learning",
+        "level": "60%"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "My Travel Blog for my post-university travels",
+        "image": "canadian-wanderlust.jpg",
+        "url": "https://www.canadianwanderlust.com"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "(offline now) A fighting gear company I started",
+        "image": "fury-fighting-gear.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Original Thai Food",
+        "category": "Website I built for a restaurant I like in Thailand",
+        "image": "original-thai-food.jpg",
+        "url": "http://www.timbakerdev.com/originalthaifood.github.io"
+      },
+      {
+        "title": "Resume Website",
+        "category": "A React based resume website template",
+        "image": "resume-website.jpg",
+        "url": "http://www.timbakerdev.com"
+      },
+      {
+        "title": "Smirkspace",
+        "category": "(MVP Only) A React and Meteor based chat University project.",
+        "image": "smirkspace.jpg",
+        "url": "http://www.smirkspace.com"
+      }
+    ]
+  },
+  "testimonials": {
+    "Projects" : [
+      {
+        "title": "Amazon Campus Mentorship program (ACMS)",
+        "Aim" : "Developing a styling recommendation system for the Kindle app for writers and forecasting the success of new novels.",
+        "description": [
+          {
+            "id": "point1",
+            "point": "Conducted literature survey to identity most suitable document similarity document thereby, analysing the accuracy of numerous similarity methods."
+          },
+          {
+            "id": "point2",
+            "point": "Created a model for categorising books for the style recommendation system using cosine similarity mixed with word embedding, Doc2vec, and dimensionality reduction with Singular Value Decomposition (SVD) and Density-based spatial clustering of applications with noise (DBSCAN) clustering."
+          },
+          {
+            "id": "point3",
+            "point": "Constructed Multilayer perceptron (MLP) over term frequency-inverse document frequency (TF-IDF), later improving the technique by using stylometric features in the Support Vector Machine (SVM) classification algorithm."
+          }
+          ]
+        }
+    ]
+  }
+}
+
